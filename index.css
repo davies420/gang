@@ -9,3 +9,7 @@ h1{
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
 }
+.down{
+    color: crimson;
+    background-color: rgb(21, 236, 14);
+}
